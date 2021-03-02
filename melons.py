@@ -30,9 +30,3 @@ for num, name in melon_names.items():
         'flesh_color': None,
         'weight': None,
         'rind_color': None}
-    # new_dict['price'] = melon_prices[num]
-    # new_dict['seedlessness'] = melon_seedlessness[num]
-    # new_dict['flesh_color'] = None
-    # new_dict['weight'] = None
-    # new_dict['rind _color'] = None
-    
